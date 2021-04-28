@@ -1,0 +1,34 @@
+.addContainer{
+    background:#e7e1d5;
+    min-height: 90vh;
+    padding: 15px 50px;
+}
+.addForm{
+    max-width: 500px;
+    margin: 15px auto;
+    color: #16140e;
+}
+.addForm h2{
+    font-size: 2em;
+}
+.formSection{
+    margin-top: 40px;
+}
+.formInput{
+    width: 100%;
+    border-radius: 5px;
+    padding: 10px 5px;
+}
+.submitButton{
+    background-color: #ddc48e ;
+    background-image: linear-gradient(90deg,#bb9d69 0%, #ddc48e 30%, #bb9d69 100%);
+    color: #000000;
+    border: none;
+    border-radius: 5px;
+    margin: 15px;
+    padding: 15px 40px;
+    display: block;
+    font-size: 1.2rem;
+    font-weight: 500;
+    cursor: pointer;
+}

@@ -1,0 +1,34 @@
+.editContainer{
+    background-color: #e7e1d5;
+    height: 90vh;
+    padding: 15px 50px;
+}
+.editForm{
+    max-width: 500px;
+    margin: 15px auto;
+    color: #16140e;
+}
+.editForm h2{
+    font-size: 2em;
+}
+.formSection{
+    margin-top: 40px;
+}
+.formInput{
+    width: 100%;
+    border-radius: 5px;
+    padding: 10px 5px;
+}
+.saveButton{
+    background-color: #1446A0;
+    background-image: linear-gradient(90deg,#1446A0 0%, #3163c0 30%, #1446A0 100%);
+    color: #ebeeee;
+    border: none;
+    border-radius: 5px;
+    margin: 15px;
+    padding: 15px 40px;
+    display: block;
+    font-size: 1.2rem;
+    font-weight: 500;
+    cursor: pointer;
+}

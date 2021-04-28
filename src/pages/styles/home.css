@@ -1,0 +1,17 @@
+.homeContainer{
+    background:#16140e;
+    min-height: 100%;
+    padding: 15px;
+}
+.addButton{
+    background-color: #ddc48e ;
+    background-image: linear-gradient(90deg,#bb9d69 0%, #ddc48e 30%, #bb9d69 100%);
+    color: #000000;
+    border: none;
+    border-radius: 5px;
+    padding: 15px 40px;
+    display: block;
+    margin: 15px auto;
+    font-size: 1.2rem;
+    cursor: pointer;
+}

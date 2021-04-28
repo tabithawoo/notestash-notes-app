@@ -1,0 +1,33 @@
+.headerContainer{
+    background-color: #ddc48e ;
+    background-image: linear-gradient(90deg,#bb9d69 0%, #ddc48e 30%, #bb9d69 100%);
+    height: 120px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.headerBranding{
+    cursor: pointer;
+}
+.brandingText{
+    margin: 0px;
+    padding-bottom: 5px;
+    font-size: 2.5em;
+    color: #113e92;
+}
+.stash{
+    color: #16140e;
+}
+.headerImage{
+    display: block;
+    margin: 0 auto;
+    height: 30px;
+}
+.clearButton{
+    background-color: #16140e;
+    color: #ebeeee;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+    cursor: pointer;
+}

@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  font-family: 'Ubuntu', 'Helvetica Neue', sans-serif;
+  letter-spacing: 0.03em;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+@font-face {
+  font-family: 'Ubuntu';
+  src: local('Ubuntu'),
+   url('./fonts/Ubuntu/Ubuntu-Bold.ttf') format('truetype');
+  font-weight: 700;
+ }
+@font-face {
+  font-family: 'Ubuntu';
+  src: local('Ubuntu'),
+   url('./fonts/Ubuntu/Ubuntu-Medium.ttf') format('truetype');
+  font-weight: 500;
+ }
+ @font-face {
+  font-family: 'Ubuntu';
+  src: local('Ubuntu'),
+   url('./fonts/Ubuntu/Ubuntu-Regular.ttf') format('truetype');
+  font-weight: normal;
+ }
+
