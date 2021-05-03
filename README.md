@@ -1,4 +1,4 @@
-A React app for making, editing and reading notes
+A React app for making, editing and reading notes. Framer Motion provides transition animations and hover animations..
 
 ## Features
 
@@ -6,4 +6,4 @@ A React app for making, editing and reading notes
 - Add a note
 - Edit a note
 - Delete a note, or clear all notes
-- Funky wiggling moustache animation when hovering over the logo
+- Wiggling moustache animation when hovering over the logo
