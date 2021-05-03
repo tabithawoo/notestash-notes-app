@@ -1,4 +1,4 @@
-A React app for making, editing and reading notes. Framer Motion provides transition animations and hover animations..
+A React app for making, editing and reading notes. Framer Motion provides transition animations and hover animations.
 
 ## Features
 
